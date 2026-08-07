@@ -1,4 +1,4 @@
-module github.com/Said6289/gofpdf
+module github.com/vetevo-GmbH/gofpdf
 
 go 1.16
 
