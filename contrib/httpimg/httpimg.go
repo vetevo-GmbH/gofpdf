@@ -4,7 +4,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/Said6289/gofpdf"
+	"github.com/vetevo-GmbH/gofpdf"
 )
 
 // httpimgPdf is a partial interface that only implements the functions we need
